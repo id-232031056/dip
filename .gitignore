@@ -1,0 +1,6 @@
+.DS_Store
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+create_notebooks.py
+save_images.py
